@@ -1,5 +1,7 @@
 .text ,
-.h1 {
+.h1 ,
+.h2 ,
+.h3 {
 
     text-align: center;
     background-color: #6b0808;
@@ -18,8 +20,8 @@ font-size: 24px;
 }
 
 .list {
-background-color: black;
-color:white;
+background-color: #6b0808;
+color:yellow;
 font-size: 24px;
 }
 
@@ -29,3 +31,21 @@ font-size: 48px;
 
 }
 
+.h2 {
+
+
+font-size: 32px;
+
+}
+
+button {
+
+    text-align:center;
+    font-size:24px;
+}
+
+.h3 {
+
+
+    font-size:30px;
+}
